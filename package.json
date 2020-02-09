@@ -1,0 +1,23 @@
+{
+  "name": "cra-template-next-express-typescript",
+  "version": "1.0.0",
+  "description": "The base Typescript NextJS with Express custom server",
+  "main": "template.json",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "nextjs",
+    "express",
+    "typescript",
+    "template"
+  ],
+  "author": "Tien N. Nhan <tien@nnhan.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
